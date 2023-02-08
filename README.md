@@ -10,3 +10,4 @@ Design your GitHub Actions workflow to achieve CI/CD.
 * Use Container Registry to manage the images
 * Deploy your built image to a Kubernetes cluster
 * Expose your service to the Internet
+* Use Grafana to monitor performance metrics
